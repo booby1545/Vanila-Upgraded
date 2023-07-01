@@ -1,5 +1,18 @@
 # Vanila-Upgraded
 Vanila Upgraded is an optimized modpack for Minecraft that offers improved performance and smoother gameplay. It includes configurations aimed at optimization to reduce system load and provide a more stable gaming experience.
+# Download
+
+
+
+## [Minecraft 1.20.1](https://github.com/booby1545/Vanila-Upgraded/releases/tag/1.20.1)
+
+
+
+## [Minecraft 1.19.4](https://github.com/booby1545/Vanila-Upgraded/releases/tag/Mods)
+
+
+
+# Thumbnails
 ![1fd52a7efee271f18be1b1a21aaf6366881d2291](https://github.com/booby1545/Vanila-Upgraded/assets/107137294/386037c2-a949-484f-b6dd-0d8bddb2c4af)
 ![152b1f381d0a9fadce3e9c8894f37adb5c72e23b](https://github.com/booby1545/Vanila-Upgraded/assets/107137294/d25b8272-8280-487c-95db-97fa073c3f09)
 ![a1aaf7a8d96e125f6338b6b2bef68c024b6e6b06](https://github.com/booby1545/Vanila-Upgraded/assets/107137294/6e40c37f-7275-40d7-a28e-939ccf961f50)
