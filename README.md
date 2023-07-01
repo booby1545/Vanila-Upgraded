@@ -32,3 +32,4 @@ Vanila Upgraded is an optimized modpack for Minecraft that offers improved perfo
 ![02ba610d2e08a7b4190551fa4b6a3e5eb88d0617](https://github.com/booby1545/Vanila-Upgraded/assets/107137294/5e46dd34-87bc-43f1-b9c5-cc54fd8b7684)
 
 # Hotkeys
+TBU
